@@ -9,5 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Приветствие
-        run: echo "Привет!
-"
+        run: echo "Привет!"
